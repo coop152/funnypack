@@ -1,4 +1,6 @@
 # funnypack
-my minceraft server resource pack
+Funny minceraft server resource pack \:)
+### Instructions
+After modifying the contents of the pack (in the `contents` folder), run `update.py`. This will zip the resource pack, calculate the SHA-1 and update the readme file. 
 
-SHA-1: 3b9ea6fbb7ca92880981d9d12d6befc5f116893c
+SHA-1: eba8463361f73939baf098593fe9d99aea24e454
